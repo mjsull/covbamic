@@ -49,3 +49,8 @@ Where sars_bam_file.primertrimmed.rg.sorted.bam is a sorted and indexed bam file
                         minimum depth to report minor allele site (when -m set)
   -p3, --panel3         Draw panel 3.
 ```
+
+
+Example output
+
+![covbamic](https://github.com/mjsull/covbamic/blob/main/example.svg?raw=true)
