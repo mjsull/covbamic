@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <svg
+       xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:cc="http://creativecommons.org/ns#"
+       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:svg="http://www.w3.org/2000/svg"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+       xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+       height="600.000000"
+       width="210.000000"
+       id="svg2"
+       version="1.1"
+       inkscape:version="0.48.4 r9939"
+       sodipodi:docname="easyfig">
+      <metadata
+         id="metadata122">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>Easyfig</dc:title>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <defs
+         id="defs120" />
+      <sodipodi:namedview
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="640"
+         inkscape:window-height="480"
+         id="namedview118"
+         showgrid="false"
+         inkscape:zoom="0.0584"
+         inkscape:cx="2500"
+         inkscape:cy="75.5"
+         inkscape:window-x="55"
+         inkscape:window-y="34"
+         inkscape:window-maximized="0"
+         inkscape:current-layer="svg2" />
+      <title
+         id="title4">Easyfig</title>
+      <g
+         style="fill-opacity:1.0; stroke:black; stroke-width:1;"
+         id="g6">  <line x1="5.000000" y1="20.000000" x2="170.000000" y2="20.000000"
+        stroke-width="6.000000" stroke="#000000" stroke-opacity="1.000000" stroke-linecap="round" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="6.467746,12.750000 64.314283,12.750000 64.314283,5.500000 79.314283,20.500000 64.314283,34.500000 64.314283,27.250000 6.467746,27.250000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="8.467746"
+    y="22.666667"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="8.467746"
+      y="22.666667">ORF1a</tspan></text>
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="79.314283,12.750000 108.937063,12.750000 108.937063,5.500000 123.937063,20.500000 108.937063,34.500000 108.937063,27.250000 79.314283,27.250000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="81.314283"
+    y="22.666667"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="81.314283"
+      y="22.666667">ORF1b</tspan></text>
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="123.981206,12.750000 130.064876,12.750000 130.064876,5.500000 145.064876,20.500000 130.064876,34.500000 130.064876,27.250000 123.981206,27.250000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="125.981206"
+    y="22.666667"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="125.981206"
+      y="22.666667">spike</tspan></text>
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="145.114537,5.500000 145.114537,34.500000 149.677792,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="149.815738,5.500000 149.815738,34.500000 151.068287,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="151.349697,5.500000 151.349697,34.500000 155.035615,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="155.096311,5.500000 155.096311,34.500000 156.117112,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="156.155737,5.500000 156.155737,34.500000 158.169749,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="158.914657,5.500000 158.914657,34.500000 160.928669,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="161.011437,5.500000 161.011437,34.500000 167.958399,20.500000" />
+  <polygon fill="#03a629" stroke="#000000" stroke-width="1.000000"
+           points="168.096345,5.500000 168.096345,34.500000 168.736414,20.500000" />
+  <path d="M72.096947 5.000000 L72.096947 35.000000 L7.500000 50.000000 L7.500000 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-6.166667"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-6.166667">12160</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="5.000000" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="5.000000" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="5.000000" y="80.000000" width="5.000000" height="99.715100" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="5.000000" y="179.715100" width="5.000000" height="0.284900" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-6.166667"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-6.166667">nuc:G12160A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="5.000000" y="211.000000" width="5.000000" height="35.100000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="247.100000"
+    y="-6.166667"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="247.100000"
+      y="-6.166667">351x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="7.500000"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="7.500000"
+      y="340.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="5.000000" y="341.000000" width="5.000000" height="99.715100" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="5.000000" y="440.715100" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="5.000000" y="440.715100" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="5.000000" y="440.715100" width="5.000000" height="0.284900" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="5.000000" y="441.000000" width="5.000000" height="0.000000" />
+  <path d="M125.095810 5.000000 L125.095810 35.000000 L17.205882 50.000000 L17.205882 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-15.872549"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-15.872549">21765</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="14.705882" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="14.705882" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="14.705882" y="80.000000" width="5.000000" height="87.313433" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="14.705882" y="167.313433" width="5.000000" height="12.686567" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-15.872549"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-15.872549">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="14.705882" y="211.000000" width="5.000000" height="26.800000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="238.800000"
+    y="-15.872549"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="238.800000"
+      y="-15.872549">268x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="17.205882"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="17.205882"
+      y="340.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="14.705882" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="14.705882" y="341.000000" width="5.000000" height="12.686567" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="14.705882" y="353.686567" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="14.705882" y="353.686567" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="14.705882" y="353.686567" width="5.000000" height="87.313433" />
+  <path d="M125.101328 5.000000 L125.101328 35.000000 L26.911765 50.000000 L26.911765 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-25.578431"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-25.578431">21766</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="24.411765" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="24.411765" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="24.411765" y="80.000000" width="5.000000" height="99.250936" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="24.411765" y="179.250936" width="5.000000" height="0.749064" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-25.578431"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-25.578431">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="24.411765" y="211.000000" width="5.000000" height="26.700000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="238.700000"
+    y="-25.578431"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="238.700000"
+      y="-25.578431">267x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="26.911765"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="26.911765"
+      y="340.000000">A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="24.411765" y="341.000000" width="5.000000" height="0.749064" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="24.411765" y="341.749064" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="24.411765" y="341.749064" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="24.411765" y="341.749064" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="24.411765" y="341.749064" width="5.000000" height="99.250936" />
+  <path d="M125.106845 5.000000 L125.106845 35.000000 L36.617647 50.000000 L36.617647 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-35.284314"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-35.284314">21767</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="34.117647" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="34.117647" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="34.117647" y="80.000000" width="5.000000" height="96.616541" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="34.117647" y="176.616541" width="5.000000" height="3.383459" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-35.284314"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-35.284314">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="34.117647" y="211.000000" width="5.000000" height="26.600000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="238.600000"
+    y="-35.284314"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="238.600000"
+      y="-35.284314">266x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="36.617647"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="36.617647"
+      y="340.000000">C</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="34.117647" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="34.117647" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="34.117647" y="341.000000" width="5.000000" height="3.383459" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="34.117647" y="344.383459" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="34.117647" y="344.383459" width="5.000000" height="96.616541" />
+  <path d="M125.112363 5.000000 L125.112363 35.000000 L46.323529 50.000000 L46.323529 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-44.990196"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-44.990196">21768</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="43.823529" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="43.823529" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="43.823529" y="80.000000" width="5.000000" height="97.416974" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="43.823529" y="177.416974" width="5.000000" height="2.583026" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-44.990196"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-44.990196">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="43.823529" y="211.000000" width="5.000000" height="27.100000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="239.100000"
+    y="-44.990196"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="239.100000"
+      y="-44.990196">271x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="46.323529"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="46.323529"
+      y="340.000000">A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="43.823529" y="341.000000" width="5.000000" height="1.845018" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="43.823529" y="342.845018" width="5.000000" height="0.738007" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="43.823529" y="343.583026" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="43.823529" y="343.583026" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="43.823529" y="343.583026" width="5.000000" height="97.416974" />
+  <path d="M125.117881 5.000000 L125.117881 35.000000 L56.029412 50.000000 L56.029412 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-54.696078"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-54.696078">21769</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="53.529412" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="53.529412" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="53.529412" y="80.000000" width="5.000000" height="95.571956" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="53.529412" y="175.571956" width="5.000000" height="4.428044" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-54.696078"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-54.696078">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="53.529412" y="211.000000" width="5.000000" height="27.100000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="239.100000"
+    y="-54.696078"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="239.100000"
+      y="-54.696078">271x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="56.029412"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="56.029412"
+      y="340.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="53.529412" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="53.529412" y="341.000000" width="5.000000" height="4.428044" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="53.529412" y="345.428044" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="53.529412" y="345.428044" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="53.529412" y="345.428044" width="5.000000" height="95.571956" />
+  <path d="M125.123399 5.000000 L125.123399 35.000000 L65.735294 50.000000 L65.735294 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-64.401961"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-64.401961">21770</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="63.235294" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="63.235294" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="63.235294" y="80.000000" width="5.000000" height="97.069597" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="63.235294" y="177.069597" width="5.000000" height="2.930403" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-64.401961"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-64.401961">S:HV69-</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="63.235294" y="211.000000" width="5.000000" height="27.300000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="239.300000"
+    y="-64.401961"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="239.300000"
+      y="-64.401961">273x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="65.735294"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="65.735294"
+      y="340.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="63.235294" y="341.000000" width="5.000000" height="1.831502" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="63.235294" y="342.831502" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="63.235294" y="342.831502" width="5.000000" height="0.732601" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="63.235294" y="343.564103" width="5.000000" height="0.366300" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="63.235294" y="343.930403" width="5.000000" height="97.069597" />
+  <path d="M130.729525 5.000000 L130.729525 35.000000 L75.441176 50.000000 L75.441176 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-74.107843"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-74.107843">22786</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="72.941176" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="72.941176" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="72.941176" y="80.000000" width="5.000000" height="97.311828" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="72.941176" y="177.311828" width="5.000000" height="2.688172" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-74.107843"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-74.107843">S:R408S</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="72.941176" y="211.000000" width="5.000000" height="18.600000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="230.600000"
+    y="-74.107843"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="230.600000"
+      y="-74.107843">186x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="75.441176"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="75.441176"
+      y="340.000000">A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="72.941176" y="341.000000" width="5.000000" height="1.075269" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="72.941176" y="342.075269" width="5.000000" height="0.537634" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="72.941176" y="342.612903" width="5.000000" height="97.311828" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="72.941176" y="439.924731" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="72.941176" y="439.924731" width="5.000000" height="1.075269" />
+  <path d="M131.452363 5.000000 L131.452363 35.000000 L85.147059 50.000000 L85.147059 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-83.813725"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-83.813725">22917</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="82.647059" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="82.647059" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="82.647059" y="80.000000" width="5.000000" height="98.672566" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="82.647059" y="178.672566" width="5.000000" height="1.327434" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-83.813725"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-83.813725">S:L452R</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="82.647059" y="211.000000" width="5.000000" height="22.600000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="234.600000"
+    y="-83.813725"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="234.600000"
+      y="-83.813725">226x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="85.147059"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="85.147059"
+      y="340.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="82.647059" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="82.647059" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="82.647059" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="82.647059" y="341.000000" width="5.000000" height="98.672566" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="82.647059" y="439.672566" width="5.000000" height="1.327434" />
+  <path d="M132.009665 5.000000 L132.009665 35.000000 L94.852941 50.000000 L94.852941 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-93.519608"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-93.519608">23018</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="92.352941" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="92.352941" y="80.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="92.352941" y="80.000000" width="5.000000" height="97.894737" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="92.352941" y="177.894737" width="5.000000" height="2.105263" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-93.519608"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-93.519608">S:F486V</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="92.352941" y="211.000000" width="5.000000" height="38.000000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="250.000000"
+    y="-93.519608"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="250.000000"
+      y="-93.519608">380x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="94.852941"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="94.852941"
+      y="340.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="92.352941" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="92.352941" y="341.000000" width="5.000000" height="1.578947" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="92.352941" y="342.578947" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="92.352941" y="342.578947" width="5.000000" height="97.894737" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="92.352941" y="440.473684" width="5.000000" height="0.526316" />
+  <path d="M151.382804 5.000000 L151.382804 35.000000 L104.558824 50.000000 L104.558824 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-103.225490"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-103.225490">26529</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="102.058824" y="80.000000" width="5.000000" height="53.982301" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="102.058824" y="133.982301" width="5.000000" height="45.132743" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="102.058824" y="179.115044" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="102.058824" y="179.115044" width="5.000000" height="0.884956" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-103.225490"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-103.225490">M:D3N</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="102.058824" y="211.000000" width="5.000000" height="22.600000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="234.600000"
+    y="-103.225490"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="234.600000"
+      y="-103.225490">226x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="104.558824"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="104.558824"
+      y="340.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="102.058824" y="341.000000" width="5.000000" height="45.132743" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="102.058824" y="386.132743" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="102.058824" y="386.132743" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="102.058824" y="386.132743" width="5.000000" height="53.982301" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="102.058824" y="440.115044" width="5.000000" height="0.884956" />
+  <path d="M153.198174 5.000000 L153.198174 35.000000 L114.264706 50.000000 L114.264706 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-112.931373"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-112.931373">26858</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="111.764706" y="80.000000" width="5.000000" height="50.871080" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="111.764706" y="130.871080" width="5.000000" height="48.780488" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="111.764706" y="179.651568" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="111.764706" y="179.651568" width="5.000000" height="0.348432" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-112.931373"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-112.931373">nuc:C26858T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="111.764706" y="211.000000" width="5.000000" height="28.700000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="240.700000"
+    y="-112.931373"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="240.700000"
+      y="-112.931373">287x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="114.264706"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="114.264706"
+      y="340.000000">C</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="111.764706" y="341.000000" width="5.000000" height="0.348432" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="111.764706" y="341.348432" width="5.000000" height="50.871080" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="111.764706" y="392.219512" width="5.000000" height="48.780488" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="111.764706" y="441.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="111.764706" y="441.000000" width="5.000000" height="0.000000" />
+  <path d="M156.089523 5.000000 L156.089523 35.000000 L123.970588 50.000000 L123.970588 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-122.637255"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-122.637255">27382</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="121.470588" y="80.000000" width="5.000000" height="46.745562" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="121.470588" y="126.745562" width="5.000000" height="50.295858" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="121.470588" y="177.041420" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="121.470588" y="177.041420" width="5.000000" height="2.958580" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-122.637255"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-122.637255">ORF6:D61L</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="121.470588" y="211.000000" width="5.000000" height="33.800000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="245.800000"
+    y="-122.637255"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="245.800000"
+      y="-122.637255">338x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="123.970588"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="123.970588"
+      y="340.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="121.470588" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="121.470588" y="341.000000" width="5.000000" height="0.887574" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="121.470588" y="341.887574" width="5.000000" height="46.745562" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="121.470588" y="388.633136" width="5.000000" height="50.295858" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="121.470588" y="438.928994" width="5.000000" height="2.071006" />
+  <path d="M156.095041 5.000000 L156.095041 35.000000 L133.676471 50.000000 L133.676471 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-132.343137"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-132.343137">27383</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="131.176471" y="80.000000" width="5.000000" height="46.745562" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="131.176471" y="126.745562" width="5.000000" height="50.591716" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="131.176471" y="177.337278" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="131.176471" y="177.337278" width="5.000000" height="2.662722" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-132.343137"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-132.343137">ORF6:D61L</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="131.176471" y="211.000000" width="5.000000" height="33.800000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="245.800000"
+    y="-132.343137"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="245.800000"
+      y="-132.343137">338x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="133.676471"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="133.676471"
+      y="340.000000">A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="131.176471" y="341.000000" width="5.000000" height="50.591716" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="131.176471" y="391.591716" width="5.000000" height="46.745562" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="131.176471" y="438.337278" width="5.000000" height="1.775148" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="131.176471" y="440.112426" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="131.176471" y="440.112426" width="5.000000" height="0.887574" />
+  <path d="M156.100558 5.000000 L156.100558 35.000000 L143.382353 50.000000 L143.382353 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-142.049020"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-142.049020">27384</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="140.882353" y="80.000000" width="5.000000" height="47.126437" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="140.882353" y="127.126437" width="5.000000" height="52.586207" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="140.882353" y="179.712644" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="140.882353" y="179.712644" width="5.000000" height="0.287356" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-142.049020"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-142.049020">ORF6:D61L</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="140.882353" y="211.000000" width="5.000000" height="34.800000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="246.800000"
+    y="-142.049020"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="246.800000"
+      y="-142.049020">348x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="143.382353"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="143.382353"
+      y="340.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="140.882353" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="140.882353" y="341.000000" width="5.000000" height="52.586207" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="140.882353" y="393.586207" width="5.000000" height="47.126437" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="140.882353" y="440.712644" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="140.882353" y="440.712644" width="5.000000" height="0.287356" />
+  <path d="M158.329766 5.000000 L158.329766 35.000000 L153.088235 50.000000 L153.088235 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-151.754902"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-151.754902">27788</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="150.588235" y="80.000000" width="5.000000" height="45.050505" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="150.588235" y="125.050505" width="5.000000" height="45.050505" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="150.588235" y="170.101010" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="150.588235" y="170.101010" width="5.000000" height="9.898990" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-151.754902"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-151.754902">nuc:G27788T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="150.588235" y="211.000000" width="5.000000" height="49.500000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="261.500000"
+    y="-151.754902"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="261.500000"
+      y="-151.754902">495x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="153.088235"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="153.088235"
+      y="340.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="150.588235" y="341.000000" width="5.000000" height="0.202020" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="150.588235" y="341.202020" width="5.000000" height="45.050505" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="150.588235" y="386.252525" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="150.588235" y="386.252525" width="5.000000" height="45.050505" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="150.588235" y="431.303030" width="5.000000" height="9.696970" />
+  <path d="M163.494465 5.000000 L163.494465 35.000000 L162.794118 50.000000 L162.794118 65.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="0.900000" stroke-linecap="butt" fill="none" z="-1" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="66.000000"
+    y="-161.460784"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="66.000000"
+      y="-161.460784">28724</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="160.294118" y="80.000000" width="5.000000" height="47.118644" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="160.294118" y="127.118644" width="5.000000" height="51.525424" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="160.294118" y="178.644068" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="160.294118" y="178.644068" width="5.000000" height="1.355932" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="-161.460784"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="-161.460784">N:P151S</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#3474eb" fill-opacity="1.000000"
+        x="160.294118" y="211.000000" width="5.000000" height="29.500000" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="241.500000"
+    y="-161.460784"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="241.500000"
+      y="-161.460784">295x</tspan></text>
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="162.794118"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="162.794118"
+      y="340.000000">C</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="160.294118" y="341.000000" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="160.294118" y="341.000000" width="5.000000" height="47.118644" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="160.294118" y="388.118644" width="5.000000" height="51.525424" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="160.294118" y="439.644068" width="5.000000" height="0.000000" />
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="160.294118" y="439.644068" width="5.000000" height="1.355932" />
+  <text
+    style="font-size:4.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="172.000000"
+    y="340.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="172.000000"
+      y="340.000000">Ref base</tspan></text>
+  <text
+    style="font-size:10.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="170.000000"
+    y="371.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="170.000000"
+      y="371.000000">Legend</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="170.000000" y="377.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="385.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="385.000000">A</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="170.000000" y="389.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="397.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="397.000000">T</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="170.000000" y="401.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="409.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="409.000000">C</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#cc6d41" fill-opacity="1.000000"
+        x="170.000000" y="413.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="421.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="421.000000">G</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="170.000000" y="425.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="433.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="433.000000">-</tspan></text>
+  <line x1="5.000000" y1="211.000000" x2="170.000000" y2="211.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="1.000000" stroke-linecap="round" />
+  <text
+    style="font-size:6.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="172.000000"
+    y="211.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="172.000000"
+      y="211.000000">0x</tspan></text>
+  <line x1="5.000000" y1="221.000000" x2="170.000000" y2="221.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="1.000000" stroke-linecap="round" />
+  <text
+    style="font-size:6.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="172.000000"
+    y="221.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="172.000000"
+      y="221.000000">100x</tspan></text>
+  <line x1="5.000000" y1="311.000000" x2="170.000000" y2="311.000000"
+        stroke-width="1.000000" stroke="#000000" stroke-opacity="1.000000" stroke-linecap="round" />
+  <text
+    style="font-size:6.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="172.000000"
+    y="311.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="172.000000"
+      y="311.000000">1000x</tspan></text>
+  <text
+    style="font-size:10.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    text-anchor="middle"
+    x="261.000000"
+    y="-170.000000"
+    sodipodi:linespacing="125%"
+    transform="matrix(0,1,-1,0,0,0)"><tspan
+      sodipodi:role="line"
+      x="261.000000"
+      y="-170.000000">Depth</tspan></text>
+  <text
+    style="font-size:10.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="170.000000"
+    y="80.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="170.000000"
+      y="80.000000">Legend</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#7fa34a" fill-opacity="1.000000"
+        x="170.000000" y="86.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="94.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="94.000000">BA.4</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#9573c6" fill-opacity="1.000000"
+        x="170.000000" y="98.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="106.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="106.000000">BA.5</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#99566b" fill-opacity="1.000000"
+        x="170.000000" y="110.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="118.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="118.000000">both</tspan></text>
+  <rect stroke="#000000" stroke-width="0.000000" stroke-opacity="1.000000"
+        fill="#999999" fill-opacity="1.000000"
+        x="170.000000" y="122.000000" width="10.000000" height="10.000000" />
+  <text
+    style="font-size:8.000000px;font-style:normal;font-weight:normal;z-index:10;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+    x="181.000000"
+    y="130.000000"
+    sodipodi:linespacing="125%"><tspan
+      sodipodi:role="line"
+      x="181.000000"
+      y="130.000000">other</tspan></text>
+ </g>
+</svg>
